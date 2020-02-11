@@ -28,3 +28,5 @@ The first and last nodes of a doubly linked list are immediately accessible (i.e
   - _complexity_ *O(n)* since we need to traverse n Nodes  to get to our target node.
 - *print_list()* prints the list node by node. 
   - _complexity_ *O(n)* since we need to traverse the entire list.
+
+![DLL](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Doubly-linked-list.svg/610px-Doubly-linked-list.svg.png)
